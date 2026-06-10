@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/admin-dashboard/page": "/admin-dashboard",
+  "/admissions/page": "/admissions",
+  "/careers/page": "/careers",
+  "/contact/page": "/contact",
+  "/course-details/page": "/course-details",
+  "/digital-library/page": "/digital-library",
+  "/fee-payment/page": "/fee-payment",
+  "/login/page": "/login",
+  "/page": "/",
+  "/parent-dashboard/page": "/parent-dashboard",
+  "/programs/page": "/programs",
+  "/signup/page": "/signup",
+  "/social-media/page": "/social-media",
+  "/student-dashboard/page": "/student-dashboard",
+  "/support/page": "/support",
+  "/teacher-dashboard/page": "/teacher-dashboard"
+}

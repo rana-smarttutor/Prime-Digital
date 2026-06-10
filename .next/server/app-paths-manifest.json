@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/admin-dashboard/page": "app/admin-dashboard/page.js",
+  "/admissions/page": "app/admissions/page.js",
+  "/careers/page": "app/careers/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/course-details/page": "app/course-details/page.js",
+  "/digital-library/page": "app/digital-library/page.js",
+  "/fee-payment/page": "app/fee-payment/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/parent-dashboard/page": "app/parent-dashboard/page.js",
+  "/programs/page": "app/programs/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/social-media/page": "app/social-media/page.js",
+  "/student-dashboard/page": "app/student-dashboard/page.js",
+  "/support/page": "app/support/page.js",
+  "/teacher-dashboard/page": "app/teacher-dashboard/page.js"
+}
